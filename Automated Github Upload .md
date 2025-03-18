@@ -116,7 +116,7 @@ Yes\! Here’s exactly where you’ll find the buttons and dropdowns to manually
 
 #### **1\. Open Your Repository**
 
-1. Go to [GitHub](https://github.com/) and log in.  
+1. Go to Github and log in.  
 2. Click on your profile picture (top-right corner) and select "Your repositories."  
 3. Find and click on the repository where you want to upload the files.
 
@@ -640,7 +640,7 @@ Before running the script, ensure that:
 3. bash  
 4. Copy  
 5. Edit  
-6. `cd ~/Desktop/ElleGreyLLC`  
+6. `cd ~/Desktop/your desktop name`  
 7. Run the script:  
 8. bash  
 9. Copy  
@@ -663,7 +663,7 @@ If you want the script to run automatically every day, add a cron job:
 7. bash  
 8. Copy  
 9. Edit  
-10. `0 10 * * * /usr/bin/python3 ~/Desktop/ElleGreyLLC/upload_to_github.py`
+10. `0 10 * * * /usr/bin/python3 ~/Desktop/'your desktop name'/upload_to_github.py`
 
 ---
 
