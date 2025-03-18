@@ -689,7 +689,7 @@ That makes sense\! If manual uploading is faster and more reliable, let’s go w
 
 1️⃣ Go to your GitHub repository
 
-* Open GitHub in your browser: [https://github.com](https://github.com/)  
+* Open GitHub in your browser: GitHub 
 * Navigate to the repo where you want to upload the files.
 
 2️⃣ Find the "Add file" button
@@ -728,7 +728,7 @@ That makes sense\! If manual uploading is faster and more reliable, let’s go w
 
 If you prefer a quick terminal command without debugging Git scripts, follow these:
 bash
-cd ~/Desktop/YourGitHubRepo # Replace with your actual repo folder name mv ~/Desktop/ElleGreyLLC/PDF_Exports/*.pdf . # Move PDFs to the repo git add . git 
+cd ~/Desktop/YourGitHubRepo # Replace with your actual repo folder name mv ~/Desktop/your desktop name/PDF_Exports/*.pdf . # Move PDFs to the repo git add . git 
 
 ### **📌 Why Manual Upload is a Good Choice**
 
