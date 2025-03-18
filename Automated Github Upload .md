@@ -727,10 +727,8 @@ That makes sense\! If manual uploading is faster and more reliable, let’s go w
 ### **🔹 Option 3: Upload via Terminal (Still Manual but Faster)**
 
 If you prefer a quick terminal command without debugging Git scripts, follow these:
-
-bash  
-`cd ~/Desktop/YourGitHubRepo # Replace with your actual repo folder name mv ~/Desktop/ElleGreyLLC/PDF_Exports/*.pdf . # Move PDFs to the repo git add . git commit -m "Uploaded formatted PDFs" git push origin main # Change 'main' to your actual branch if needed`  
----
+bash
+cd ~/Desktop/YourGitHubRepo # Replace with your actual repo folder name mv ~/Desktop/ElleGreyLLC/PDF_Exports/*.pdf . # Move PDFs to the repo git add . git 
 
 ### **📌 Why Manual Upload is a Good Choice**
 
