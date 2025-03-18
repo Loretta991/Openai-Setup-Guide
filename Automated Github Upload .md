@@ -756,7 +756,7 @@ Save this script as convert\_readme\_to\_pdf.py and run it.
 
 `# Paths`  
 `desktop_path = os.path.expanduser("~/Desktop")`  
-`source_folder = os.path.join(desktop_path, "ElleGreyLLC", "Regression Files")`  
+`source_folder = os.path.join(desktop_path, "'your desktop name'", "Regression Files")`  
 `output_folder = os.path.join(desktop_path, "Upload GitHub")`
 
 `# Create output folder if not exists`  
@@ -829,8 +829,9 @@ After running this script:
 
 If you're using Python 3, you may need to use:
 
-bash  
-`pip3 install fpdf`  
+bash
+'pip3 install fpdf'
+
 ---
 
 ## **📜 Python Script: Convert** README.md **to** .ipynb
