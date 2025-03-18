@@ -305,7 +305,7 @@ import markdown2
 from weasyprint import HTML
 
 \# Paths  
-desktop\_path \= os.path.expanduser("\~/Desktop/ElleGreyLLC")  
+desktop\_path \= os.path.expanduser("\~/Desktop/your desktop name")  
 regression\_folder \= os.path.join(desktop\_path, "Regression Files")  
 output\_pdf\_folder \= os.path.join(desktop\_path, "PDF\_Exports")
 
