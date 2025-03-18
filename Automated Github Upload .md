@@ -92,7 +92,7 @@ Here's a Python script to automate the process of finding all README.md files in
    * Open Finder → Go to Desktop/'your_desktop_name'/Regression Files  
    * Find all README.md or converted PDF files.  
 2. Upload to GitHub  
-   * Go to [GitHub](https://github.com/)  
+   * Go to Github
    * Navigate to your repository.  
    * Click "Add file" → "Upload files".  
    * Drag and drop the files.  
