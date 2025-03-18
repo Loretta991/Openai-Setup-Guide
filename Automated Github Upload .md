@@ -1063,7 +1063,7 @@ This version will:
 3. bash  
 4. Copy  
 5. Edit  
-6. `python3 /Users/ellegreyllc/Desktop/create_readmes.py`  
+6. `python3 /Users/'your desktop name'/Desktop/create_readmes.py`  
 7. Manually upload both .ipynb and README.md files to GitHub.
 
 ### **🚀 Steps to Proceed**
