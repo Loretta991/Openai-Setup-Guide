@@ -20,7 +20,7 @@ try:
     modified_content = description + "\n\n" + file_content
 
     # Define the new file name
-    new_file_path = '/Users/ellegreyllc/Desktop/Modified_Automated_Github_Upload.md'
+    new_file_path = '/Users/your vdesktop name/Desktop/Modified_Automated_Github_Upload.md'
 
     # Write the modified content to a new file
     with open(new_file_path, 'w') as new_file:
@@ -34,7 +34,7 @@ except Exception as e:
 
 ```
 
-    File has been successfully updated and saved as /Users/ellegreyllc/Desktop/Modified_Automated_Github_Upload.md
+    File has been successfully updated and saved as /Users/your vdesktop name/Desktop/Modified_Automated_Github_Upload.md
 
 
 
